@@ -20,6 +20,9 @@ Dataset: https://www.rovile.org/datasets/haploid-and-diploid-maize-seeds-dataset
 Propuesta de solución
 ------------------------------------
 - Aplicar modelos de red convolucional preentrenados freezeando las capas y adaptando la ultima capa para identificar las clases haploide y diploide.
+
 ![Test Image 4](https://github.com/EkiTello/TF_VisionComputcional/blob/main/img2_.png)
+
 - Aplicar el paquete de Detecto que utiliza la red convulocional Faster RCC Resnet 50 FPN para detectar las clases haploides y diploides en una muestra de granos.
+
 ![Test Image 4](https://github.com/EkiTello/TF_VisionComputcional/blob/main/img3_.png) 
